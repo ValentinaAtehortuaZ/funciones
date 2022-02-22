@@ -10,7 +10,7 @@
 let piloto= dividirNombre("ABCD1234: Valentina","ADSE3456: Jhon","KHYU4578: Karen")
 console.log("El piloto es: "+piloto[1])*/
 
-//funcion flecha
+//funcion flecha ..
 
 let dividirNombre=codigo=>codigo.split(":")
 
